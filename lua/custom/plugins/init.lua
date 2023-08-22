@@ -2,10 +2,6 @@
 --  I promise not to create any merge conflicts in this directory :)
 --
 -- See the kickstart.nvim README for more information
---
-
--- NOT WORKING because of racing condition
-vim.cmd [[colorscheme tokyonight-storm]]
 
 -- Show current line highlight
 vim.o.cursorline = true
